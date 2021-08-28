@@ -1,0 +1,5 @@
+Subject: Compte supprimé.
+
+Bonjour, {USERNAME} votre compte enregistré sur {REGISTER_DATE} a été supprimé en raison de votre inactivité sur le forum.
+
+{EMAIL_SIG}
